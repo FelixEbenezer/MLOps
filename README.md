@@ -14,3 +14,5 @@ PLUS D INFOS SUR COMMENT SERVIR ET CONSOMMER UN MODELE DE ML EN LIGNE OU EN PROD
 - https://towardsdatascience.com/3-ways-to-deploy-machine-learning-models-in-production-cdba15b00e#:~:text=The%20simplest%20way%20to%20deploy,need%20at%20least%20three%20steps.
 
 - https://mohameddhaoui.github.io/dataengineering/mlflow/
+
+- https://www.mlflow.org/docs/latest/model-registry.html#adding-an-mlflow-model-to-the-model-registry
